@@ -1,3 +1,7 @@
+:root {
+    --main-color: #245852
+}
+
 body {
     background-color: antiquewhite;
 }
@@ -5,4 +9,12 @@ body {
 .hero {
     background: url(../img/BG.jpg);
     padding: 350px 50px;
+}
+
+.story {
+    background-color: var(--main-color);
+}
+
+footer {
+    background-color: var(--main-color);
 }
