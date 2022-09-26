@@ -1,0 +1,8 @@
+body {
+    background-color: antiquewhite;
+}
+
+.hero {
+    background: url(../img/BG.jpg);
+    padding: 350px 50px;
+}
